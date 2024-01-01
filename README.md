@@ -26,6 +26,8 @@ The LinkedIn Data Widgets Maker is a WordPress plugin designed to bring LinkedIn
 
 ## Usage
 
+NOTE: DO NOT install this plugin yet. Its still under development. Wait for me to reach v1.0 in Releases before you try it.
+
 - **Simple Setup**: Install the plugin, configure your LinkedIn API settings, and you're ready to go.
 - **Drag and Drop Widgets**: Easily add and arrange widgets on your WordPress site using the native widget interface.
 
